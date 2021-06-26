@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.springframework.samples</groupId>
     <artifactId>spring-framework-petclinic</artifactId>
-    <version>5.3.10</version>
+    <version>5.3.8/version>
     <name>Spring Framework Petclinic$BUILD_NUMBER</name>
     <packaging>war</packaging>
     <description>A Spring Framework application based on JSP, Spring MVC, Spring Data JPA, Hibernate and JDBC</description>
@@ -511,8 +511,8 @@
                 <jpa.database>MYSQL</jpa.database>
                 <jdbc.driverClassName>com.mysql.cj.jdbc.Driver</jdbc.driverClassName>
                 <jdbc.url>jdbc:mysql://my-mysql-5-7.comecia7xod6.ap-south-1.rds.amazonaws.com
-:3306/my_petclinic?useUnicode=true</jdbc.url>
-                <jdbc.username>my_petclinicuser</jdbc.username>
+:3306/java_tomcat?useUnicode=true</jdbc.url>
+                <jdbc.username>my_java_tomcatuser</jdbc.username>
                 <jdbc.password>IjRJnKj2hFknimX7vkU0</jdbc.password>
             </properties>
             <dependencies>
