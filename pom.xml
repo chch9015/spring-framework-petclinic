@@ -511,9 +511,9 @@
                 <jpa.database>MYSQL</jpa.database>
                 <jdbc.driverClassName>com.mysql.cj.jdbc.Driver</jdbc.driverClassName>
                 <jdbc.url>jdbc:mysql://my-mysql-5-7.comecia7xod6.ap-south-1.rds.amazonaws.com
-:3306/java_tomcat?useUnicode=true</jdbc.url>
-                <jdbc.username>my_java_tomcatuser</jdbc.username>
-                <jdbc.password>IjRJnKj2hFknimX7vkU0</jdbc.password>
+:3306/petclinic_r?useUnicode=true</jdbc.url>
+                <jdbc.username>petclinic_r_user</jdbc.username>
+                <jdbc.password>IjRJnKj2hFknimX7vkUc</jdbc.password>
             </properties>
             <dependencies>
                 <dependency>

@@ -1,6 +1,6 @@
-CREATE DATABASE IF NOT EXISTS java_tomcat;
+CREATE DATABASE IF NOT EXISTS petclinic_r;
 
-ALTER DATABASE java_tomcat
+ALTER DATABASE petclinic_r
   DEFAULT CHARACTER SET utf8
   DEFAULT COLLATE utf8_general_ci;
 
